@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contentDiv {
+    width: 100%;
+    min-height: 400px;
+    background-color: #1234;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
